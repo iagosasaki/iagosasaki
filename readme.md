@@ -3,6 +3,7 @@
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </div>
+
 ### Software Engineer
 Apaixonado por tech desde sempre!
 Se precisa resolver um problema com tecnologia, pode me chamar! 
