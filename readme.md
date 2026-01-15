@@ -2,6 +2,10 @@
 
 ### Software Engineer
 
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+</div>
+
 Apaixonado por tech desde sempre!
 Se precisa resolver um problema com tecnologia, pode me chamar! 
 Desenvolvendo o que tiver em mente, sem medo de queimar um componente ou quebrar um deploy ;)
