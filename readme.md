@@ -10,7 +10,7 @@ Desenvolvendo o que tiver em mente, sem medo de queimar um componente ou quebrar
 
 ### 🧠Sobre:
 
-* 🤠 Analista de Sistemas at [COAMO](https://www.coamo.com.br/)
+* 🤠 Analista de Sistemas na [COAMO](https://www.coamo.com.br/)
 * 💳 Experiência com produtos financeiros
 * 🎓 Ciência da Computação - Universidade Tecnológica Federal do Paraná
 * 🎓 Administração de Empresas - Técnico - ETEC Amim Jundi
